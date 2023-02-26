@@ -1,0 +1,29 @@
+Data Analysis Project 1 : Keep da Reciept
+Niesha Thomas
+Code Kentucky Eastern
+
+March 19, 2023
+
+I have hand recorded information unto an excel spreadsheet. The data supplied are reciepts collected by a client for 6 months. The client is seeking answers about how much money has been spent from August 2022 to Feburay 2023
+Questions
+Total amount spent in 6 months
+Top 5 stores where the money was spent
+Top 2 used Payment methods
+Top 3 items brought at each store
+Once all data is reviewed, these projections will show the spending habits, amounts, and how one retail organzation can control the flow of this clients income.
+[ ]
+
+To create this project i will use google colab as my IDE. I will download standard python libraries and files like
+Pandas
+Numpy
+CSV files
+In this environment i will read in , manipulate, and analyze data. After all results will be presented in a graphical generated visualzation format.
+
+Table of Contast
+list
+dictionary
+tuple
+functions
+analyze
+manipulated data
+create Data set
